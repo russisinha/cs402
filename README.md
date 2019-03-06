@@ -14,4 +14,6 @@ The calculator is easy to use since the User Interface is very simple to underst
 
 Prompts are provided at every step for inputs required from the user, whether it be an option from the menu list or an input for conversion or performing some arithmetic operation.
 
-For more details go to the [Project User Manual]()
+For more details go to the [Project User Manual](project/user%20manual.pdf)
+
+The flowchart for the code is available [here](project/flow%20chart.pdf)
